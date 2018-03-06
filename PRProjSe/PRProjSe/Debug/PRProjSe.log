@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\michal\documents\visual studio 2015\projects\prprojse\prprojse\source.cpp(32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\michal\documents\visual studio 2015\projects\prprojse\prprojse\source.cpp(212): warning C4101: 'sa': unreferenced local variable
+  PRProjSe.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\PRProjSe\Debug\PRProjSe.exe
+  PRProjSe.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\PRProjSe\Debug\PRProjSe.pdb (Partial PDB)
